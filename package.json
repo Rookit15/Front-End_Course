@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Rookit15/Front-End_Course#readme",
   "dependencies": {
     "node-sass": "^7.0.3"
-  }
+  },
+  "devDependencies": {}
 }
